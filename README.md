@@ -191,4 +191,4 @@ Feel free to submit issues, feature requests, or pull requests to improve these 
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE). 
+This project is open source. 
